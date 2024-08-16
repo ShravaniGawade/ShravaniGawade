@@ -1,5 +1,3 @@
-# Welcome to My Data Science Journey!
-
 ## About Me
 I'm currently a graduate student in Data Analytics at San Jose State University, with a deep passion for turning raw data into impactful insights. My academic and professional background in Computer Science and Management equips me with a unique blend of technical expertise and strategic thinking.
 
@@ -9,5 +7,5 @@ I'm currently a graduate student in Data Analytics at San Jose State University,
 
 ## Let's Connect!
 I’m always open to discussing data science, potential collaborations, or just connecting with like-minded individuals.
-[Email](mailto:shravani.gawade@sjsu.edu)
-[LinkedIn](https://www.linkedin.com/in/shravanigawade/)
+- [Email](mailto:shravani.gawade@sjsu.edu)
+- [LinkedIn](https://www.linkedin.com/in/shravanigawade/)
