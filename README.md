@@ -1,9 +1,7 @@
 ## About Me
-I'm currently a graduate student in Data Analytics at San Jose State University, with a deep passion for turning raw data into impactful insights. My academic and professional background in Computer Science and Management equips me with a unique blend of technical expertise and strategic thinking.
+I’m a Data Analyst and Applied Data Science graduate student at San Jose State University, graduating in December 2025 (GPA 4.0). I am passionate about using data, algorithms and AI to solve real-world problems. With a background in Computer Science and Management, I bring a blend of technical depth and business acumen aligned for roles in Data Analytics, Machine Learning and Generative AI.
 
-## What I’m Up To
-- Building: Innovative projects that bridge the gap between data and decision-making.
-- Learning: Advanced techniques in Machine Learning and Big Data to stay at the forefront of technology.
+With hands-on experience in FinTech and HRTech, I have built machine learning models to predict employee attrition, designed real-time dashboards for high-volume transaction monitoring, and standardized enterprise data pipelines resulting in improvements in data quality, operational efficiency, and decision-making across functions.
 
 ## Technical Skills
 - Languages: Python, SQL
